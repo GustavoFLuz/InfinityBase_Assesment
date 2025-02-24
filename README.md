@@ -26,7 +26,7 @@ npm install
 Para executar o projeto, utilize os seguinte comando:
 - Back End:
 
-Configure o arquivo /api/.env com as variáveis de ambiente necessárias ou utilize as variáveis definidas em /api/.env.example
+Configure o arquivo `/api/.env` com as variáveis de ambiente necessárias ou utilize as variáveis definidas em `/api/.env.example`
 ```sh
 npm run init-db # Inicializa o banco de dados e adiciona dados de teste
 
